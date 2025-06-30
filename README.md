@@ -1,12 +1,34 @@
 ## Tarso de Azevedo 👋
+## 👋 Sobre mim
 
-Olá, sou formado em **Administração de Empresas**, com **pós-graduação** na área, e também em **Análise e Desenvolvimento de Sistemas pela FATEC-SP**. 
+Sou formado em **Administração de Empresas (PUC/SP)**, com **pós-graduação em Gestão Empresarial pela EAESP/FGV/SP**, e também em **Análise e Desenvolvimento de Sistemas pela FATEC-SP**.
 
-Tenho experiência na **área bancária** e, posteriormente, no **desenvolvimento empresarial**, atuando como **gerente de programas e projetos**. Fui responsável pela gestão de uma **fundação do terceiro setor** vinculada à **maior rede de ensino técnico e tecnológico do Brasil**.
+Tenho uma trajetória multidisciplinar, unindo **experiência em negócios** e **formação técnica em tecnologia**. Atuei na **área bancária**, no **desenvolvimento empresarial** e como **gerente de programas e projetos**, liderando iniciativas em setores estratégicos. Fui responsável pela gestão de uma **fundação do terceiro setor** vinculada à **maior rede de ensino técnico e tecnológico do Brasil** (Centro Paula Souza).
 
-Além disso, atuei como **gerente de projetos de TI** em **infraestrutura** e, por 10 meses, em **sistemas**, gerando relatórios com **SQL**. 
+Nos últimos anos, venho me aprofundando em **Tecnologia da Informação**, com experiência como **gerente de projetos de TI**, tanto em **infraestrutura** quanto em **sistemas**, onde atuei por 10 meses desenvolvendo relatórios e consultas com **SQL**.
 
-Atualmente, complemento meus estudos com cursos extracurriculares em **Python** e **Banco de Dados**, com foco em **análise de dados**.
+Atualmente, estou focado em **análise de dados**, com estudos contínuos em **Python**, **bancos de dados relacionais** e **tecnologias voltadas à ciência de dados**.
+
+---
+
+### 🚀 Áreas de Interesse
+- Análise de Dados & BI  
+- Projetos de TI  
+- Transformação Digital  
+- SQL, Python, Cloud (em aprendizado contínuo)
+
+---
+
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/tarso-de-azevedo-7a593185)
+- [E-mail](mailto:tarsodeazevedo@gmail.com)
+
+---
+
+### 💡 Em busca de novos desafios na interseção entre **negócios** e **tecnologia**.
+
+
+
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)

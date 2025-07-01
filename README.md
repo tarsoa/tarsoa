@@ -1,11 +1,11 @@
 ## Tarso de Azevedo 👋
 ## 👋 Sobre mim
 
-Sou formado em **Administração de Empresas (PUC/SP)**, com **pós-graduação em Gestão Empresarial pela EAESP/FGV/SP**, e também em **Análise e Desenvolvimento de Sistemas pela FATEC-SP**.
+Sou formado em **Administração de Empresas pela PUC/SP**, com **pós-graduação em Gestão Empresarial pela EAESP/FGV/SP**, e também em **Análise e Desenvolvimento de Sistemas pela FATEC-SP**.
 
-Tenho uma trajetória multidisciplinar, unindo **experiência em negócios** e **formação técnica em tecnologia**. Atuei na **área bancária**, no **desenvolvimento empresarial** e como **gerente de programas e projetos**, liderando iniciativas em setores estratégicos. Fui responsável pela gestão de uma **fundação do terceiro setor** vinculada à **maior rede de ensino técnico e tecnológico do Brasil** (Centro Paula Souza).
+Tenho uma trajetória multidisciplinar, unindo **experiência em negócios** e **formação técnica em tecnologia**. Atuei na **área bancária**, em **desenvolvimento empresarial** como **gerente de programas e projetos**, liderando iniciativas em setores estratégicos. Fui responsável pela gestão de uma **fundação do terceiro setor** vinculada à **maior rede de ensino técnico e tecnológico do Brasil** (Centro Paula Souza).
 
-Nos últimos anos, venho me aprofundando em **Tecnologia da Informação**, com experiência como **gerente de projetos de TI**, tanto em **infraestrutura** quanto em **sistemas**, onde atuei por 10 meses desenvolvendo relatórios e consultas com **SQL**.
+Nos últimos anos, venho me aprofundando em **Tecnologia da Informação**, com experiência como **gerente de projetos de TI** em **infraestrutura** quanto em **sistemas**, onde atuei por 10 meses desenvolvendo relatórios e consultas com **SQL**.
 
 Atualmente, estou focado em **análise de dados**, com estudos contínuos em **Python**, **bancos de dados relacionais** e **tecnologias voltadas à ciência de dados**.
 
